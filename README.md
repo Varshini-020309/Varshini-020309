@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Varshini 👋
 
-<!--
-**Varshini-020309/Varshini-020309** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ECE Student | Electronics Enthusiast
 
-Here are some ideas to get you started:
+I am an Electronics and Communication Engineering (ECE) student interested in learning new technologies and developing my technical skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Education
+- Bachelor's Degree in Electronics and Communication Engineering (ECE)
+- Department: ECAD
+
+## 💻 Skills
+- C Programming
+- Python Basics
+- Digital Electronics
+- VLSI Basics
+- Git & GitHub
+
+## 🌱 Currently Learning
+- Embedded Systems
+- Verilog
+- VLSI Design
+
+## 💡 Strengths
+- Quick Learner
+- Problem Solving
+- Teamwork
+
+## 🎯 Interests
+- VLSI Design
+- Embedded Systems
+- Semiconductor Technology
+
+⭐ Thanks for visiting my profile!
