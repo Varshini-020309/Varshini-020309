@@ -6,7 +6,7 @@ I am an Electronics and Communication Engineering (ECE) student interested in le
 
 ## 🎓 Education
 - Bachelor's Degree in Electronics and Communication Engineering (ECE)
-- Department: ECAD
+- Department: ECE
 
 ## 💻 Skills
 - C Programming
